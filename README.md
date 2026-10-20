@@ -112,3 +112,51 @@ Sesi keempat memperkenalkan konsep dasar *Machine Learning* melalui studi kasus 
 * Melatih model menggunakan algoritma **Random Forest Classifier**.
 * Menguji kemampuan model menggunakan *Confusion Matrix*, *Precision*, *Recall*, dan *F1-Score*.
 * Menggunakan model yang telah dilatih untuk me
+
+## Sesi 5 — Human-Computer Interaction & Data Visualization
+
+**Narasumber:** Dr. Arafat Febriandirza
+**Jabatan:** Kepala Kelompok Riset IMK & Visualisasi – BRIN
+
+### Studi Kasus
+
+Pembuatan Dashboard Pemantauan Kinerja Sistem dengan Antarmuka Interaktif
+
+### Ringkasan
+
+Sesi kelima membahas konsep Human-Computer Interaction (HCI) dan Data Visualization. Implementasinya dilakukan melalui pembuatan dashboard yang menyajikan informasi kinerja sistem dalam bentuk visual dan menyediakan interaksi bagi pengguna.
+
+### Implementasi
+Menampilkan indikator operasional dalam bentuk kartu agar informasi mudah dibaca.
+Menggunakan perbedaan warna untuk menunjukkan kondisi optimal, waspada, dan kritis.
+Mengelompokkan informasi berdasarkan jenis metrik agar dashboard lebih terstruktur.
+Membuat tombol diagnostik menggunakan JavaScript.
+Menampilkan pesan sebagai bentuk feedback setelah pengguna melakukan interaksi.
+Menerapkan konsep affordance, visibilitas fungsi, dan umpan balik sistem.
+Sesi 6 — Attributing Direct Drivers to Deforestation Alerts with Satellite Imagery and AI
+
+**Narasumber:**  Dr. Bart Slagter
+**Instansi:** Laboratory of Geo-Information Science & Remote Sensing
+
+### Studi Kasus
+
+Identifikasi Faktor Penyebab Deforestasi Menggunakan Data Satelit dan Machine Learning
+
+### Ringkasan
+
+Sesi keenam membahas pemanfaatan data citra satelit dan Machine Learning untuk mengidentifikasi faktor yang menyebabkan terjadinya deforestasi. Data perubahan vegetasi, kebakaran, lokasi jalan, dan luas pembukaan lahan digunakan sebagai fitur dalam proses klasifikasi.
+
+### Implementasi
+Membuat dataset simulasi yang berisi perubahan NDVI, perubahan NBR, jarak dari jalan, dan luas pembukaan tutupan lahan.
+Menentukan label penyebab deforestasi berdasarkan aturan tertentu.
+Mengelompokkan kemungkinan penyebab menjadi kebakaran hutan dan lahan, perkebunan, pembangunan infrastruktur jalan, serta perambahan skala kecil.
+Melatih model Random Forest Classifier menggunakan fitur yang tersedia.
+Mengevaluasi kinerja model menggunakan laporan klasifikasi.
+Menggunakan model untuk memprediksi kategori penyebab dari data peringatan baru.
+📌 Catatan
+
+Seluruh program dalam repositori ini merupakan implementasi pembelajaran menggunakan data simulasi.
+
+Hasil perhitungan dan prediksi yang dihasilkan digunakan untuk memahami konsep, metode, serta alur kerja dari masing-masing bidang yang dibahas dalam seminar.
+
+Program dan hasil yang terdapat dalam repositori ini bukan merupakan pengganti analisis lapangan maupun sistem operasional yang telah tervalidasi.
