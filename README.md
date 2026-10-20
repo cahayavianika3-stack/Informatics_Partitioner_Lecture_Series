@@ -1,3 +1,2 @@
 # Informatics_Partitioner_Lecture_Series 
-# Rangkuman Materi Seminar 1-6
-Dokumentasi dan Implementasi Code Informatics Patitioner Lecture Series : Connecting Academic Knowladge with Industries and Global Techonolgy
+Dokumentasi dan Implementasi Code Informatics Patitioner Lecture Series : Connecting Academic Knowladge with Industries and Global Techonolgy dalam bentuk Program Python sesuai studi kasus dari enam sesi seminar Informatika. Pembahasan mencakup pengolahan data, pemrosesan paralel, sistem informasi geografis, pembelajaran mesin, interaksi manusia dan komputer, serta pemanfaatan AI untuk mengidentifikasi penyebab deforestasi.
